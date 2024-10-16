@@ -8,10 +8,10 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.mazca</groupId>
+	<groupId>com.example</groupId>
 	<artifactId>template</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Mazca Clean Arch Spring Template</name>
+	<name>Clean Arch Spring Template</name>
 	<description>Clean Architecture template for Java SpringBoot</description>
 	<url/>
 	<licenses>
